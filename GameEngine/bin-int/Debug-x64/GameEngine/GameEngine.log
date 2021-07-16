@@ -1,4 +1,3 @@
-﻿  test.cpp
-C:\Users\booli\dev\GameEngine\GameEngine\GameEngine\src\test.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-     Creating library C:\Users\booli\dev\GameEngine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.lib and object C:\Users\booli\dev\GameEngine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.exp
+﻿  Application.cpp
+C:\Users\booli\dev\GameEngine\GameEngine\GameEngine\src\GameEngine\Application.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   GameEngine.vcxproj -> C:\Users\booli\dev\GameEngine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.dll
